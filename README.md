@@ -2,9 +2,10 @@
 
 > [!NOTE]
 > Educational Repository / Izglītības nolūkiem paredzēts repozitorijs
+
 ## 2.Nedēļa Python mājasdarbs
 
-    2. nedēļas mājasdarbs: **Dati, nosacījumi un cikli**
+Tēma: **Dati, nosacījumi un cikli**
 
 ## Latviešu valodā
 
