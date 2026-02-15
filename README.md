@@ -7,6 +7,21 @@
 
 Tēma: **Dati, nosacījumi un cikli**
 
+Commits below:
+```
+
+* 383681a (HEAD -> feature/week2-homework, origin/feature/week2-homework) fix: readme data formatting adjusted
+* 3cf4047 docs: readme and misc image for readme
+* 3af8e1f fix: Guess game - added option to quit game, also added validation that user must input int from 1 to 100
+* 8aaa6fb feat: Guess game - added repeat option, game in final stage
+* 112e4ef fix: Guess game - only accepts 10 tries and also returns how many tries are left
+* d104739 feat: added Guess game that let's You guess number from 1 to 100, currently without retry functionality
+* c89e835 feat: added FizzBuzz - that returns int value or str if number that is looped through range  divides by 7,5 or 3
+* de67d21 feat: add Eligibility - that collects user input and returns Eligibility for couple of options
+* 376a60c feat: added Converter - KM/MI, KG/LB, L/GAL, DOL/EUR
+* 453d901 feat: add Type Explorer with truthy/falsy examples, comments in latvian
+```
+
 ## Latviešu valodā
 
 ### Mērķis
