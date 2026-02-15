@@ -9,8 +9,8 @@ Tēma: **Dati, nosacījumi un cikli**
 
 Commits below:
 ```
-
-* 383681a (HEAD -> feature/week2-homework, origin/feature/week2-homework) fix: readme data formatting adjusted
+* 717cb65 (HEAD -> main, origin/main, origin/feature/week2-homework, orgin, feature/week2-homework) fix: added git log to readme
+* 383681a fix: readme data formatting adjusted
 * 3cf4047 docs: readme and misc image for readme
 * 3af8e1f fix: Guess game - added option to quit game, also added validation that user must input int from 1 to 100
 * 8aaa6fb feat: Guess game - added repeat option, game in final stage
