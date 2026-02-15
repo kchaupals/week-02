@@ -24,5 +24,18 @@ def guess_game():
         except ValueError:
             print("Nederīga ievade. Lūdzu, ievadi skaitli no 1 līdz 100.")
 
+# Logic for repeating the game if either user won or losed the previous one
+    while True: 
+        retry = input("Vai vēlies uzspēlēt vēlreiz? (Jā/Nē):").lower()
+        if retry in ['jā','ja']:
+            guess_game()
+            return
+        elif retry in ['nē', 'ne']:
+            print("Paldies par spēli, uzredzēšanos!")
+            exit()
+        else:
+            print("Lūdzu, ievadi atbilid (Jā/Nē)") 
+
+
 guess_game()
      
